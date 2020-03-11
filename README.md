@@ -3,7 +3,7 @@
 This is the project for the Hyperledger Fabric chaincode, integrating the
 Burrow EVM. At its essence, this project enables one to use the Hyperledger
 Fabric permissioned blockchain platform to interact with Ethereum smart
-contracts written in an EVM compatible language such as Solidity or Vyper.
+contracts written in an EVM compatible language such as Solidity or Vyper. 
 
 The integration is achieved through the EVM chaincode (EVMCC) and Fab3. The
 EVMCC wraps the Hyperledger Burrow EVM package in a Go chaincode shim and maps
